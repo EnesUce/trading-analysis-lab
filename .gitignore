@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+venv/
+.env/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.db
+
+# Images / outputs generated locally
+outputs/
+results/
+
+# IDE / OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+*.key
