@@ -25,6 +25,7 @@ env/
 
 # Keep project input database
 !data/bist100_companies.csv
+
 # Images / outputs generated locally
 outputs/
 results/
