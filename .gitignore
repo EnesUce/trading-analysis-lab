@@ -25,6 +25,7 @@ env/
 
 # Keep example Excel files
 !example/*.xlsx
+!assets/breakout_signal_scanner_examle.xlsx
 
 # Keep project input database
 !data/bist100_companies.csv
