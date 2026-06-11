@@ -23,6 +23,9 @@ env/
 *.parquet
 *.db
 
+# Keep example Excel files
+!example/*.xlsx
+
 # Keep project input database
 !data/bist100_companies.csv
 
